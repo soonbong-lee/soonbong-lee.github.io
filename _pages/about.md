@@ -11,10 +11,12 @@ I am a third-year Ph.D. student in Operations at Yale School of Management, wher
 
 Before coming to Yale, I received my B.B.A. and B.S. in Applied Statistics and M.S. in Management Science from Yonsei University, where I was advised by Seongmoon Kim and involved in research on portfolio optimization.
 
-Research  
+Working Paper/In Progress
 ======
 [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
 
 - Preliminary version accepted for *The 5th annual Symposium on Foundations of Responsible Computing (FORC)*.
 
+Published
+=====
 (From a previous life...) [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Seo, and Seongmoon Kim, Journal of Financial Research, 2022.
