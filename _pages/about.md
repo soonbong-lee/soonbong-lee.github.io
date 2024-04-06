@@ -15,4 +15,4 @@ Research
 
 - Preliminary version accepted for *The 5th annual Symposium on Foundations of Responsible Computing (FORC)*.
 
-(From a previous life..) [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Seo, and Seongmoon Kim, Journal of Financial Research, 2022.
+(From a previous life...) [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Seo, and Seongmoon Kim, Journal of Financial Research, 2022.
