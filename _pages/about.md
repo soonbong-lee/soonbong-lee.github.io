@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interest centers on operations for social good. I use techniques from (online) algorithm design, stochastic modeling, and game theory to design effective policies that can address unique operational challenges from nonprofit and public applications, such as refugee resettlement. Before starting my Ph.D. I received my B.S. in Business Administration & Applied Statistics and M.S. in Management Science from Yonsei University, where I was fortunate to be advised by Seongmoon Kim and involved in research on portfolio optimization.
+I am a third-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interest centers on operations for social good. I use techniques from (online) algorithm design, stochastic modeling, and game theory to design effective policies that can address unique operational challenges from nonprofit and public applications, such as refugee resettlement. 
+
+Before coming to Yale, I received my B.S. in Business Administration & Applied Statistics and M.S. in Management Science from Yonsei University, where I was fortunate to be advised by Seongmoon Kim and involved in research on portfolio optimization.
 
 Research  
 ======
