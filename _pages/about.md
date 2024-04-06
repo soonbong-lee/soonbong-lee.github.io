@@ -13,7 +13,7 @@ Research
 ======
 [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
 
-⋅⋅⋅ Preliminary version accepted for *The 5th annual Symposium on Foundations of Responsible Computing (FORC)*.
+- Preliminary version accepted for *The 5th annual Symposium on Foundations of Responsible Computing (FORC)*.
 
 (in a previous life..) 
 
