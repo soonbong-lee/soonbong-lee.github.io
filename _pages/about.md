@@ -17,6 +17,7 @@ Research
 
 (in a previous life..) Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms, with Hongseon Kim, Seungbum Seo, and Seongmoon Kim, Journal of Financial Research, 2022.
 
+
 #**Subsection**
 #text here 
 
