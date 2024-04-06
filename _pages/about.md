@@ -11,7 +11,7 @@ I am a third-year Ph.D. student in Operations at Yale School of Management, wher
 - Understand unique operational challenges inherent in these applications.
 - Develop policies that can address them with analytic performance guarantees.
 
-Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to portfolio optimization.
+Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to data-driven portfolio optimization.
 
 
 Working Paper/In Progress
