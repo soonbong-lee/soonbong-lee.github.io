@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interest centers on operations for social good. I use techniques from (online) algorithm design, stochastic modeling, and game theory to design effective policies that can address unique operational challenges from nonprofit and public applications, such as refugee resettlement. 
+I am a third-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interest centers on operations for social good. I use techniques from (online) algorithm design, stochastic modeling, and game theory to design effective policies that can address unique operational challenges from nonprofit and public applications, such as refugee resettlement. Before starting my Ph.D. I received my B.S. in Business Administration & Applied Statistics and M.S. in Management Science from Yonsei University, where I was fortunate to be advised by Seongmoon Kim and involved in research on portfolio optimization.
 
 Research  
 ======
-first project: text here
+[Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
+⋅⋅* Preliminary version accepted for *The 5th annual Symposium on Foundations of Responsible Computing (FORC)*.
 
-second project: text here 
+(in a previous life..) 
 
 #**Subsection**
 #text here 
