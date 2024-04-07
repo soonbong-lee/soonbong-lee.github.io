@@ -13,8 +13,6 @@ I am a third-year Ph.D. student in Operations at Yale School of Management, wher
 
 Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to data-driven portfolio optimization.
 
-[Uploading google6c40ba179873google-site-verification: google6c40ba1798739a44.html9a44.html…]()
-
 
 Working Paper/In Progress
 ======
