@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+My hometown is [Jeju Island](https://en.wikipedia.org/wiki/Jeju_Island) in South Korea. 
+
 Outside academia, I love
 * playing, listening to, and even chatting about classical piano music:
   * Videos
