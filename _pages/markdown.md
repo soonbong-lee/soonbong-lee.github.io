@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+Outside academia, I love
+* playing, listening to, and even chatting about classical piano music:
+  * Videos
+* playing video games (who doesn't like The Last of Us?)
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
