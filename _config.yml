@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "soonbong+github+profile+test.jpg"
   name             : "Soonbong Lee"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his" # example: "she/her"  
   bio              : "Ph.D. student @ Yale School of Management"
   location         : "New Haven, CT"
   employer         : "Yale School of Management"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "http://linkedin.com/in/soonbong-lee-014b2013a" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
