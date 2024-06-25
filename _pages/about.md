@@ -14,6 +14,7 @@ I am a third-year Ph.D. student in Operations at Yale School of Management, wher
 Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to data-driven portfolio optimization.
 
 
+
 Working Paper/In Progress
 ======
 [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
@@ -21,6 +22,7 @@ Working Paper/In Progress
 - Conference version accepted to *The 25th ACM Conference on Economics and Computation (EC), 2024*
 - Accepted for Presentation at *Ninth Marketplace Innovation Workshop (MIW), 2024*
 - Extended abstract in *The fifth annual Symposium on Foundations of Responsible Computing (FORC), 2024*
+- Featured on [*Yale Insight*](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process) 
 
 Published
 =====
