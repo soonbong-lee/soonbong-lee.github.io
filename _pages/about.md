@@ -24,7 +24,7 @@ Working Paper/In Progress
 - Accepted for Presentation at *Ninth Marketplace Innovation Workshop (MIW), 2024*
 - Featured on [*Yale Insight*](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process) 
 
-[Diversity in Labor Markets: Implications of the Rooney Rule], with Vahideh Manshadi and Faidra Monachou, Work in Progress, 2024.
+Diversity in Labor Markets: Implications of the Rooney Rule, with Vahideh Manshadi and Faidra Monachou, Work in Progress, 2024.
 
 Published
 =====
