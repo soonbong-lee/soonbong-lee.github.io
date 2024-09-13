@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interests lie in operations for social good, mainly in the context of platform-based nonprofit and public sector applications. Drawing upon methodologies from algorithm design, stochastic modeling, and game theory, my aim is to:
+I am a fourth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interests lie in operations for social good, mainly in the context of platform-based nonprofit and public sector applications. Drawing upon methodologies from algorithm design, stochastic modeling, and game theory, my aim is to:
 - Understand unique operational challenges inherent in these applications.
 - Develop policies that can address them with analytic performance guarantees.
 
