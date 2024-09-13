@@ -18,11 +18,10 @@ Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, follow
 Working Paper/In Progress
 ======
 [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
-
+- **Finalist, MSOM Best Student Paper Competition, 2024**
 - Conference version accepted to *The 25th ACM Conference on Economics and Computation (EC), 2024*
 - Conference version accepted to *The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2024* 
 - Accepted for Presentation at *Ninth Marketplace Innovation Workshop (MIW), 2024*
-- Extended abstract in *The fifth annual Symposium on Foundations of Responsible Computing (FORC), 2024*
 - Featured on [*Yale Insight*](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process) 
 
 Published
