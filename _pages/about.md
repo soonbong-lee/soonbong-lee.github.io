@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interests lie the design and operations of online and matching platforms, with a particular focus on nonprofit and public sector applications. Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to data-driven portfolio optimization.
+I am a fourth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My current research interests lie in the design and operations of online and matching platforms, with a particular focus on nonprofit and public sector applications. Prior to joining Yale, I earned my B.B.A. and B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on research related to data-driven portfolio optimization.
 
 
 
