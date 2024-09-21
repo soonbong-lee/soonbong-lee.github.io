@@ -15,7 +15,7 @@ Working Paper/In Progress
 ======
 1. [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Working Paper, 2024.
 - **Finalist, MSOM Best Student Paper Competition, 2024** (Winner TBA)
-- **Finalst, Michael H. Rothkopf Junior Researcher Paper Prize (awarded by INFORMS Auctions and Market Design Section), 2024** (Winner TBA)
+- **Finalist, Michael H. Rothkopf Junior Researcher Paper Prize (awarded by INFORMS Auctions and Market Design Section), 2024** (Winner TBA)
 - Conference version accepted to *The 25th ACM Conference on Economics and Computation (EC), 2024*
 - Oral presentation at *The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2024*
 - Media: "[Using Operations Research to Improve the Refugee Resettlement Process](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process)." Yale Insights
