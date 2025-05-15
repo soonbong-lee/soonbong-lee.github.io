@@ -22,8 +22,9 @@ Working Paper/In Progress
 - Media: "[Using Operations Research to Improve the Refugee Resettlement Process](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process)." Yale Insights
 
 2. [Why the Rooney Rule Fumbles: Limitations of Interview-stage Diversity Interventions in Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179386), with Setareh Farajollahzadeh, Vahideh Manshadi and Faidra Monachou, Working Paper, 2025.
+- Conference version accepted to *The 26th ACM Conference on Economics and Computation (EC), 2025*
 
-3. Redesigning Feeding America's Real-Time Donation Systems, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
+4. Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
    
 (Pre-Ph.D.) Publication
 =====
