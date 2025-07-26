@@ -23,6 +23,7 @@ Working Paper/In Progress
 
 2. [Why the Rooney Rule Fumbles: Limitations of Interview-stage Diversity Interventions in Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179386), with Setareh Farajollahzadeh, Vahideh Manshadi and Faidra Monachou, Major Revision at **Operations Research**, 2025.
 - Conference version accepted to *The 26th ACM Conference on Economics and Computation (EC), 2025*
+- Conference version accepted at *The 5th ACM Conference on Equity \& Access in Algorithms, Mechanisms, \& Optimization (EAAMO)*, 2025
 
 4. Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
    
