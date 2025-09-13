@@ -29,7 +29,7 @@ Working Paper/In Progress
 - Conference version accepted to *The 26th ACM Conference on Economics and Computation (EC), 2025*
 - Conference version accepted at *The 5th ACM Conference on Equity & Access in Algorithms, Mechanisms, & Optimization (EAAMO)*, 2025
 
-4. Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
+3. Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
    
 (Pre-Ph.D.) Publication
 =====
