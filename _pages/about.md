@@ -17,6 +17,7 @@ Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, follo
 Working Paper/In Progress
 ======
 1. [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Major Revision at **Management Science**, 2025.
+- **Finalist, Service Science Best Student Paper Award, 2025**
 - **Winner, MSOM Best Student Paper Competition, 2024** 
 - **Winner, Michael H. Rothkopf Junior Researcher Paper Prize (awarded by INFORMS Auctions and Market Design Section), 2024**
 - Accepted to *The NBER Market Design Working Group Meeting*, 2024
