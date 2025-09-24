@@ -15,9 +15,9 @@ I am a fifth-year Ph.D. student in Operations at Yale School of Management, wher
 Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
 
 
-Working Paper/In Progress
+Papers
 ======
-1. [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, Major Revision at **Management Science**, 2025.
+1. [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, **Management Science**, Accepted, 2025.
 - **Finalist, Service Science Best Student Paper Award, 2025**
 - **Winner, MSOM Best Student Paper Competition, 2024** 
 - **Winner, Michael H. Rothkopf Junior Researcher Paper Prize (awarded by INFORMS Auctions and Market Design Section), 2024**
@@ -32,6 +32,4 @@ Working Paper/In Progress
 
 3. Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working in Progress, 2024.
    
-(Pre-Ph.D.) Publication
-=====
-[Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Soh, and Seongmoon Kim, Journal of Financial Research, 2022.
+4. [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Soh, and Seongmoon Kim, Journal of Financial Research, 2022.
