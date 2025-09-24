@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My research interests center on **platform and policy design for social good**, with broader interests in socially responsible and sustainable operations. My work has been mainly motivated by collaborations with nationwide nonprofit and public organizations that operate through modern technology and platform-based systems, including [Feeding America’s MealConnect](https://mealconnect.org/) and a national refugee resettlement agency. Combining tools from data science, operations research, and economics, I develop decision-support tools that provide actionable recommendations to amplify the social impact of such organizations, while also generating policy insights with broader societal implications. 
-
-Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
+I am a fifth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My research interests center on **platform and policy design for social good**, with broader interests in socially responsible and sustainable operations. My work has been mainly motivated by collaborations with nationwide nonprofit and public organizations that operate through modern technology and platform-based systems, including [Feeding America’s MealConnect](https://mealconnect.org/) and a national refugee resettlement agency. Combining tools from data science, operations research, and economics, I develop decision-support tools that provide actionable recommendations to amplify the social impact of such organizations, while also generating policy insights with broader societal implications. My reserach has been recognized by [several awards](https://som.yale.edu/story/2024/phd-student-soonbong-lee-wins-two-informs-awards-research-refugee-resettlement-process), including the Auctions and Market Design Rothkopf Prize, the MSOM Best Student Paper Prize, the George Nicholson Student Paper Prize, and the Service Science Best Student Papaer Award.  
 
 <p><strong>I am on the academic job market for 2025–26. You can find my 
 <a href="/files/Soonbong_Lee_CV_Sep_2025.pdf">CV here</a>.</strong></p>
+
+Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
+
 
 Working Paper/In Progress
 ======
