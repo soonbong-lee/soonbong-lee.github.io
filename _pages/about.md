@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a fifth-year Ph.D. student in Operations at Yale School of Management, where I am fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). My research interests center on **platform and policy design for social good**. Drawing tools from data science, optimization, and mathematical modeling, I design data-driven solutions and analytical methods for resource allocation problems in nonprofit and public sectors to help organizations amplify their social impact. I have worked on applications in refugee resettlement, diversity policies in labor markets, and food rescue. 
-Much of my work has been grounded in close collaborations with platform-based nonprofit and public organizations, including [Feeding America’s MealConnect](https://mealconnect.org/) and a national refugee resettlement agency. My research has been recognized by [several awards](https://som.yale.edu/story/2024/phd-student-soonbong-lee-wins-two-informs-awards-research-refugee-resettlement-process), including the MSOM Best Student Paper Prize, the George Nicholson Student Paper Prize, the Auctions and Market Design Rothkopf Prize, and the Service Science Best Student Paper Award.  
+Much of my work has been grounded in close collaborations with platform-based nonprofit and public organizations, including [Feeding America’s MealConnect](https://mealconnect.org/) and a national refugee resettlement agency. My research has been recognized by [several awards](https://som.yale.edu/story/2024/phd-student-soonbong-lee-wins-two-informs-awards-research-refugee-resettlement-process), including the MSOM Best Student Paper Prize , the Auctions and Market Design Rothkopf Prize, and the Service Science Best Student Paper Award (finalist), and the George Nicholson Student Paper Prize(finalist).  
 
 <p><strong>I am on the academic job market for 2025–26. You can find my 
 <a href="/files/Soonbong_Lee_CV_Sep_2025_v3.pdf">CV here</a>.</strong></p>
@@ -28,12 +28,12 @@ Papers
 - Oral presentation at *The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2024*
 - Media: "[Using Operations Research to Improve the Refugee Resettlement Process](https://insights.som.yale.edu/insights/using-operations-research-to-improve-the-refugee-resettlement-process)." Yale Insights
 
-2. Who to Offer, and When: Redesigning Feeding America's Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working Paper (**Job Market Paper**), 2025. (Draft available upon request)
-
-3. [Why the Rooney Rule Fumbles: Limitations of Interview-stage Diversity Interventions in Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179386), with Setareh Farajollahzadeh, Vahideh Manshadi, and Faidra Monachou, Major Revision at **Operations Research**, 2025.
+2. [Why the Rooney Rule Fumbles: Limitations of Interview-stage Diversity Interventions in Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179386), with Setareh Farajollahzadeh, Vahideh Manshadi, and Faidra Monachou, Major Revision at **Operations Research**, 2025.
 - Conference version accepted to *The 26th ACM Conference on Economics and Computation (EC), 2025*
 - Conference version accepted at *The 5th ACM Conference on Equity & Access in Algorithms, Mechanisms, & Optimization (EAAMO)*, 2025
-  
-4. [Portfolio Evaluation with the Vector Distance Based on Portfolio Composition](https://www.mdpi.com/2227-7390/11/1/221), with Heonbae Jeon, Hongseon Kim, Seung Bum Soh, and Seongmoon Kim, Mathematics, 2023.
+
+3. Who to Offer, and When: Redesigning Feeding America's Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working Paper, 2025. (Draft available upon request)
    
-5. [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Soh, and Seongmoon Kim, Journal of Financial Research, 2022.
+5. [Portfolio Evaluation with the Vector Distance Based on Portfolio Composition](https://www.mdpi.com/2227-7390/11/1/221), with Heonbae Jeon, Hongseon Kim, Seung Bum Soh, and Seongmoon Kim, **Mathematics**, 2023.
+   
+6. [Improving Portfolio Investment Performance with Distance-Based Portfolio Combining Algorithms](https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12303), with Hongseon Kim, Seungbum Soh, and Seongmoon Kim, **Journal of Financial Research**, 2022.
