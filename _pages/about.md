@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. student in Operations at Yale School of Management, wher
 Much of my work has been grounded in close collaborations with platform-based nonprofit and public organizations, including [Feeding America’s MealConnect](https://mealconnect.org/) and a national refugee resettlement agency. My research has been recognized by [several awards](https://som.yale.edu/story/2024/phd-student-soonbong-lee-wins-two-informs-awards-research-refugee-resettlement-process), including the MSOM Best Student Paper Prize, the Auctions and Market Design Rothkopf Prize, the Service Science Best Student Paper Award (finalist), and the George Nicholson Student Paper Prize (finalist).  
 
 <p><strong>I am on the academic job market for 2025–26. You can find my 
-<a href="/files/Soonbong_Lee_CV_Sep_2025_v4.pdf">CV here</a>.</strong></p>
+<a href="/files/Soonbong_Lee_CV_Sep_2025 v4.pdf">CV here</a>.</strong></p>
 
 Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
 
