@@ -15,6 +15,20 @@ Much of my work has been grounded in close collaborations with platform-based no
 
 Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
 
+**Upcoming Talks**
+
+- **Sunday, Oct. 26, 2:45PM**  
+  *“Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System”*  
+  (Session SD50 – Socially Aware Service Operations)
+
+- **Sunday, Oct. 26, 4:15PM**  
+  *“Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement”*  
+  (Session SE01 – George Nicholson Student Paper Competition)
+
+- **Tuesday, Oct. 26, 2:45PM**  
+  *“Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement”*  
+  (Session TD05 – Service Science Award Session III)
+
 
 Papers
 ======
