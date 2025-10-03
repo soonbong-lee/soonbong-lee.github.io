@@ -21,7 +21,7 @@ repository               : "soonbong-lee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "soonbong+github+profile+test.jpg"
+  avatar           : "headshot.jpg"
   name             : "Soonbong Lee"
   pronouns         : "he/him/his" # example: "she/her"  
   bio              : "Ph.D. student @ Yale School of Management"
