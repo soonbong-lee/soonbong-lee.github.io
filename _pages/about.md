@@ -12,7 +12,7 @@ Much of my work has been grounded in close collaborations with platform-based no
 
 Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University. During this time, I worked under the supervision of Prof. Seongmoon Kim, focusing on data-driven portfolio optimization.  
 
-<p><strong>I am on the academic job market for 2025–26. You can find my 
+<p><strong>I am on the 2025-26 academic job market. You can find my 
 <a href="/files/Soonbong_Lee_CV_Sep_2025 v4.pdf">CV here</a>.</strong></p>
 
 **Upcoming Talks**
