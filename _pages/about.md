@@ -46,7 +46,7 @@ Papers
 - Conference version accepted to *The 26th ACM Conference on Economics and Computation (EC), 2025*
 - Conference version accepted at *The 5th ACM Conference on Equity & Access in Algorithms, Mechanisms, & Optimization (EAAMO)*, 2025
 
-3. Who to Offer, and When: Redesigning Feeding America's Real-Time Donation System, with Vahideh Manshadi and Daniela Saban, Working Paper, 2025. (Draft available upon request)
+3. [Who to Offer, and When: Redesigning Feeding America's Real-Time Donation Tool](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5592190), with Vahideh Manshadi and Daniela Saban, Working Paper, 2025.
    
 5. [Portfolio Evaluation with the Vector Distance Based on Portfolio Composition](https://www.mdpi.com/2227-7390/11/1/221), with Heonbae Jeon, Hongseon Kim, Seung Bum Soh, and Seongmoon Kim, **Mathematics**, 2023.
    
