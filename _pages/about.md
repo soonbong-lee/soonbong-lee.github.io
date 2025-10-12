@@ -17,15 +17,15 @@ Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, follo
 
 **Upcoming Talks**
 
-- **Sunday, Oct. 26, 2:45PM**  
+- **Sunday, Oct. 26, 2:45PM (Building B Level 3 B310)**  
   *“Who to Offer, and When: Redesigning Feeding America’s Real-Time Donation System”*  
   (Session SD50 – Socially Aware Service Operations)
 
-- **Sunday, Oct. 26, 4:15PM**  
+- **Sunday, Oct. 26, 4:15PM (Building A Level 3 A301)**  
   *“Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement”*  
   (Session SE01 – George Nicholson Student Paper Competition)
 
-- **Tuesday, Oct. 26, 2:45PM**  
+- **Tuesday, Oct. 26, 2:45PM (Building A Level 3 A305)**  
   *“Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement”*  
   (Session TD05 – Service Science Award Session III)
 
