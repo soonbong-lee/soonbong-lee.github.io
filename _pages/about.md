@@ -15,6 +15,7 @@ Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, follo
 <p><strong>I am on the 2025-26 academic job market. You can find my 
 <a href="/files/Soonbong_Lee_CV_Sep_2025 v4.pdf">CV here</a>.</strong></p>
 
+<!--
 **Upcoming Talks**
 
 - **Sunday, Oct. 26, 2:45PM (Building B Level 3 B310)**  
@@ -28,13 +29,13 @@ Prior to joining Yale, I earned a B.B.A. and a B.S. in Applied Statistics, follo
 - **Tuesday, Oct. 26, 2:45PM (Building A Level 3 A305)**  
   *“Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement”*  
   (Session TD05 – Service Science Award Session III)
-
+-->
 
 Papers
 ======
 1. [Dynamic Matching with Post-Allocation Service and its Application to Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748762), with Kirk Bansak, Vahideh Manshadi, Rad Niazadeh, and Elisabeth Paulson, **Management Science**, Accepted, 2025.
-- **Finalist, George Nicholson Best Student Paper Competition, 2025 (Winner TBA)**
-- **Finalist, Service Science Best Student Paper Award, 2025 (Winner TBA)**
+- **Honorable Mention, George Nicholson Best Student Paper Competition, 2025**
+- **Finalist, Service Science Best Student Paper Award, 2025**
 - **Winner, MSOM Best Student Paper Competition, 2024** 
 - **Winner, Michael H. Rothkopf Junior Researcher Paper Prize (awarded by INFORMS Auctions and Market Design Section), 2024**
 - Accepted to *The NBER Market Design Working Group Meeting*, 2024
