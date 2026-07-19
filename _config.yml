@@ -24,11 +24,16 @@ author:
   avatar           : "headshot.jpg"
   name             : "Soonbong Lee"
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "Ph.D. student @ Yale School of Management"
-  location         : "New Haven, CT"
-  employer         : "Yale School of Management"
-  uri              : # URL
-  email            : "soonbong.lee@yale.edu" 
+  bio              : "Assistant Professor of Operations, Technology, and Information Management"
+  location         : "Ithaca, NY"
+  employer         : "Cornell SC Johnson College of Business"
+  uri              : "http://linkedin.com/in/soonbong-lee-014b2013a"
+  email            : "sl3883@cornell.edu"   # your real netID
+
+  # bio              : "Assistant Professor of Operations, Technology, and Information Management"
+  # location         : "Ithaca, NY"
+  # employer         : "Cornell SC Johnson College of Business"
+  # email            : "sl3883@cornell.edu"   # your real netID
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
