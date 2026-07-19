@@ -14,6 +14,8 @@ Central to my work is bridging theory and practice through close collaboration w
 
 I hold a Ph.D. in Operations from Yale School of Management, where I was fortunate to be advised by Prof. [Vahideh Manshadi](https://vahideh-manshadi.com/). Prior to Yale, I earned a B.B.A. and a B.S. in Applied Statistics, followed by an M.S. in Management Science from Yonsei University.
 
+You can find my [CV here](/files/ Soonbong_Lee_CV_20260719.pdf).
+
 Email: sl3883 'at' cornell 'dot' edu
 
 
