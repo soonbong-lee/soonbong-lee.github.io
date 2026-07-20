@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Operations, Technology, and Information Management at the [Cornell SC Johnson College of Business](https://business.cornell.edu/). 
+I am an Assistant Professor of Operations, Technology, and Information Management at the [Cornell University SC Johnson College of Business](https://business.cornell.edu/). 
 
 Using optimization, data science, and mathematical modeling, my research studies the design of platforms and policy interventions for tackling societal challenges, with the goal of enhancing the social impact of nonprofit and public-sector organizations and providing broader insights for policymakers. My work thus far has spanned refugee resettlement, online food rescue platforms, and diversity policies in labor markets, often in close collaboration with mission-driven organizations such as [Feeding America's MealConnect](https://mealconnect.org/) and a major U.S. refugee resettlement agency. My research has been recognized by [several awards](https://som.yale.edu/story/2024/phd-student-soonbong-lee-wins-two-informs-awards-research-refugee-resettlement-process), including the MSOM Best Student Paper Prize, the Auctions and Market Design Rothkopf Prize, the George Nicholson Student Paper Prize (honorable mention), and the Service Science Best Student Paper Award (finalist).
 
