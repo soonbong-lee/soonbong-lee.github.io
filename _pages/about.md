@@ -15,7 +15,7 @@ I hold a Ph.D. in Operations from Yale School of Management, where I was fortuna
 
 You can find my [CV here](/files/Soonbong_Lee_CV_20260719.pdf).
 
-Email: sl3883 'at' cornell 'dot' edu
+Email: sl3833 'at' cornell 'dot' edu
 
 
 Papers
